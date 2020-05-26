@@ -53,19 +53,22 @@ All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation 
 
 # Manual de uso
 
-1. Clone this repo.
+1. Descargar repositorio.
 
-> git clone https://github.com/AtsushiSakai/PythonRobotics.git
+> git clone https://github.com/jledesmap/Selector-Clamp
 
+2. Módulo Aplicación:
+- Crear cuenta Firebase.
+- Vincular aplicación en Android Studio con credenciales de Firebase (Seguir tutorial Firebase).
 
-2. Install the required libraries. You can use environment.yml with conda command.
+3. Módulo comunicación:
+- En config, se añaden las credenciales para conectar con Base de datos y storage de Firebase.
+- Configurar ruta de las imágenes que se descargan.
 
-> conda env create -f environment.yml
-
-
-3. Execute python script in each directory.
-
-4. Add star to this repo if you like it :smiley:. 
+4. Módulo de detección:
+- Importar CV2. 
+- Importar numpy.
+ 
 
 
 # Path Planning
