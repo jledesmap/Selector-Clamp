@@ -1,7 +1,7 @@
 # Selector-Clamp
 
 # Table of Contents
-   * [What is this?](#what-is-this)
+   * [Qué es esto?](#what-is-this)
    * [Requirements](#requirements)
    * [Documentation](#documentation)
    * [How to use](#how-to-use)
@@ -59,7 +59,7 @@
    * [Support](#support)
    * [Authors](#authors)
 
-# What is this?
+# Qué es esto?
 
 This is a Python code collection of robotics algorithms, especially for autonomous navigation.
 
