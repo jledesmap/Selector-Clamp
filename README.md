@@ -83,6 +83,7 @@ Unity:
 
 Android Studio
 
+Lenguajes de programación usados: Python3, C#, Java.
 
 # Documentation
 
