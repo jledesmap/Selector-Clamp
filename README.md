@@ -2,7 +2,7 @@
 
 # Table of Contents
    * [Qué es esto?](#Qué-es-esto)
-   * [Requirements](#requirements)
+   * [Requisitos software](#requisitos-software)
    * [Documentation](#documentation)
    * [How to use](#how-to-use)
    * [Localization](#localization)
@@ -65,7 +65,7 @@ Nuestro grupo ha desarrollado el proyecto llamado Selector Clamp. Este consiste 
 
 El usuario a través de una aplicación móvil podrá seleccionar los detalles de la búsqueda. La aplicación permitirá hacer búsquedas de forma y/o color de los objetos. A más a más, hay la opción de hacer varias fotografías vía smartphone, a continuación, el usuario seleccionará aquellas imágenes que mejor describan la forma del objeto que desea que el brazo busque. Entre la comunicación del usuario y Selector Clamp tendremos un servidor donde se almacenarán las órdenes dadas por el usuario.
 
-# Requirements
+# Requisitos software
 
 Python 3.7.x:
 
