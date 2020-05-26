@@ -67,17 +67,22 @@ El usuario a través de una aplicación móvil podrá seleccionar los detalles d
 
 # Requirements
 
-- Python 3.8.x
+Python 3.7.x:
 
 - numpy
 
-- scipy
+- pirebase
 
-- matplotlib
+- cv2
 
-- pandas
+Unity:
 
-- [cvxpy](https://www.cvxpy.org/index.html) 
+- using Firebase;
+- using Firebase.Database;
+- using Firebase.Unity.Editor;
+
+Android Studio
+
 
 # Documentation
 
