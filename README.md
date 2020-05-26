@@ -68,6 +68,12 @@ All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation 
 4. Módulo de detección:
 - Importar CV2. 
 - Importar numpy.
+
+5. Módulo del Yolo en Unity:
+- Compilar YoloSrc\Yolo.sln
+- Publicar YoloServer project
+- Launch YoloSrc\YoloServer\bin\Release\netcoreapp2.1\win-x64\YoloServer.exe
+Abrir el proyecto de Unity y entrar en modo juego.
  
 
 
