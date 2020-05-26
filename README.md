@@ -37,13 +37,13 @@ Lenguajes de programación usados: Python3, C#, Java.
 
 # Documentación
 
-This README only shows some examples of this project. 
+Coco Datasets:  http://cocodataset.org/#home
 
-If you are interested in other examples or mathematical backgrounds of each algorithm, 
+YOLO: Real-time Object detection https://pjreddie.com/darknet/yolo/
 
-You can check the full documentation online: [https://pythonrobotics.readthedocs.io/](https://pythonrobotics.readthedocs.io/)
+Firebase: https://firebase.google.com/
 
-All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation gifs of PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs)
+Unity assets: https://assetstore.unity.com/
 
 # Manual de uso
 
