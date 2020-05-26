@@ -5,9 +5,6 @@
    * [Requisitos software](#requisitos-software)
    * [Documentación](#documentation)
    * [Manual de uso](#manual-de-uso)
-   * [Path Planning](#path-planning)
-      * [Dynamic Window Approach](#dynamic-window-approach)
-  
 
 # Qué es esto?
 
@@ -69,24 +66,3 @@ Unity assets: https://assetstore.unity.com/
 - Launch YoloSrc\YoloServer\bin\Release\netcoreapp2.1\win-x64\YoloServer.exe
 Abrir el proyecto de Unity y entrar en modo juego.
  
-
-
-# Path Planning
-
-## Dynamic Window Approach
-
-This is a 2D navigation sample code with Dynamic Window Approach.
-
-- [The Dynamic Window Approach to Collision Avoidance](https://www.ri.cmu.edu/pub_files/pub1/fox_dieter_1997_1/fox_dieter_1997_1.pdf)
-
-![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/DynamicWindowApproach/animation.gif)
-
-# Authors
-
-- [Javi Ledesma Pardo](https://github.com/jledesmap)
-
-- [Pol Magre Moya](https://github.com/polmm96)
-
-- [Ridouan Elbachiri](https://github.com/)
-
-- [Irene González Fernández](https://github.com/)
