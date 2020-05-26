@@ -3,8 +3,8 @@
 # Table of Contents
    * [Qué es esto?](#Qué-es-esto)
    * [Requisitos software](#requisitos-software)
-   * [Documentation](#documentation)
-   * [How to use](#how-to-use)
+   * [Documentación](#documentation)
+   * [Manual de uso](#manual-de-uso)
    * [Path Planning](#path-planning)
       * [Dynamic Window Approach](#dynamic-window-approach)
       * [Grid based search](#grid-based-search)
@@ -41,7 +41,7 @@ Android Studio
 
 Lenguajes de programación usados: Python3, C#, Java.
 
-# Documentation
+# Documentación
 
 This README only shows some examples of this project. 
 
@@ -51,7 +51,7 @@ You can check the full documentation online: [https://pythonrobotics.readthedocs
 
 All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation gifs of PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs)
 
-# How to use
+# Manual de uso
 
 1. Clone this repo.
 
