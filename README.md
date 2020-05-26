@@ -7,13 +7,7 @@
    * [Manual de uso](#manual-de-uso)
    * [Path Planning](#path-planning)
       * [Dynamic Window Approach](#dynamic-window-approach)
-      * [Grid based search](#grid-based-search)
-         * [Dijkstra algorithm](#dijkstra-algorithm)
-   * [Use-case](#use-case)
-   * [Contribution](#contribution)
-   * [Citing](#citing)
-   * [Support](#support)
-   * [Authors](#authors)
+  
 
 # Qué es esto?
 
@@ -86,47 +80,6 @@ This is a 2D navigation sample code with Dynamic Window Approach.
 - [The Dynamic Window Approach to Collision Avoidance](https://www.ri.cmu.edu/pub_files/pub1/fox_dieter_1997_1/fox_dieter_1997_1.pdf)
 
 ![2](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/DynamicWindowApproach/animation.gif)
-
-
-## Grid based search
-
-### Dijkstra algorithm
-
-This is a 2D grid based shortest path planning with Dijkstra's algorithm.
-
-![PythonRobotics/figure_1.png at master · AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRoboticsGifs/raw/master/PathPlanning/Dijkstra/animation.gif)
-
-In the animation, cyan points are searched nodes.
-
-# Use-case
-
-If this project helps your robotics project, please let me know with creating an issue.
-
-Your robot's video, which is using PythonRobotics, is very welcome!!
-
-This is a list of other user's comment and references:[users\_comments](https://github.com/AtsushiSakai/PythonRobotics/blob/master/users_comments.md)
-
-# Contribution
-
-Any contribution is welcome!!
-
-If your PR is merged multiple times, I will add your account to the author list.
-
-# Citing
-
-If you use this project's code for your academic work, we encourage you to cite [our papers](https://arxiv.org/abs/1808.10703) 
-
-If you use this project's code in industry, we'd love to hear from you as well; feel free to reach out to the developers directly.
-
-# Support
-
-If you or your company would like to support this project, please consider:
-
-- [Sponsor @AtsushiSakai on GitHub Sponsors](https://github.com/sponsors/AtsushiSakai)
-
-- [Become a backer or sponsor on Patreon](https://www.patreon.com/myenigma)
-
-- [One-time donation via PayPal](https://www.paypal.me/myenigmapay/)
 
 # Authors
 
