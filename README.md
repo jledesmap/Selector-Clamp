@@ -84,5 +84,5 @@ Módulos de Robot, módulo que desarrolla la funcionalidad de mover el robot apl
 # Descarga del proyecto y video
 Proyecto:
 https://drive.google.com/file/d/1UmpyUl-7hixy-MBU_QS5ppcBcJokS09E/view?usp=sharing
-\nVideo:
+Video:
 https://www.youtube.com/watch?v=kwfCs8DdLEI&feature=youtu.be
