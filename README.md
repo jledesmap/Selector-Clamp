@@ -6,6 +6,7 @@
    * [Documentación](#documentation)
    * [Manual de uso](#manual-de-uso)
    * [Arquitectura software](#arquitectura-de-software)
+   * [Aplicación móvil](#aplicacion-movil)
    * [Descarga del proyecto y video](#descarga-del-proyecto-y-video)
    
 
@@ -30,9 +31,7 @@ Python 3.7.x:
 Unity:
 
 - using Firebase;
-
 - using Firebase.Database;
-
 - using Firebase.Unity.Editor;
 
 Android Studio
@@ -82,6 +81,15 @@ Módulo de comunicación, Módulo para comunicar la aplicación con el módulo d
 Módulos de Robot, módulo que desarrolla la funcionalidad de mover el robot aplicacndo cinemática inversa.
 
 <img src="https://i.imgur.com/70Wc27Z.png" width="480" alt="EKF pic">
+
+# Aplicación móvil
+
+Uno de los módulos realizados hasta el momento es la aplicación mòbil que le servirá al
+usuario para comunicarse con nuestro robot. En la figura anterior se muestra la pantalla
+principal donde el usuario podrá introducir información sobre la figura que desea
+seleccionar ya sea indicando la forma, el color o directamente capturando la figura con
+una fotografía desde su dispositivo móvil. A continuación se muestra un ejemplo de
+cómo el usuario podría seleccionar una figura segun su color y/o forma.
 
 # Descarga del proyecto y video
 Proyecto:
