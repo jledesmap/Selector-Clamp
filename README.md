@@ -68,3 +68,4 @@ Unity assets: https://assetstore.unity.com/
 - Launch YoloSrc\YoloServer\bin\Release\netcoreapp2.1\win-x64\YoloServer.exe
 Abrir el proyecto de Unity y entrar en modo juego.
  
+<img src="https://i.imgur.com/70Wc27Z.png" width="480" alt="EKF pic">
