@@ -30,7 +30,9 @@ Python 3.7.x:
 Unity:
 
 - using Firebase;
+
 - using Firebase.Database;
+
 - using Firebase.Unity.Editor;
 
 Android Studio
