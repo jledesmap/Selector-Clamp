@@ -6,6 +6,8 @@
    * [Documentación](#documentation)
    * [Manual de uso](#manual-de-uso)
    * [Arquitectura software](#arquitectura-de-software)
+   * [Descarga del proyecto y video](#descarga del proyecto y video)
+   
 
 # Qué es esto?
 
@@ -78,3 +80,7 @@ Módulo de comunicación, Módulo para comunicar la aplicación con el módulo d
 Módulos de Robot, módulo que desarrolla la funcionalidad de mover el robot aplicacndo cinemática inversa.
 
 <img src="https://i.imgur.com/70Wc27Z.png" width="480" alt="EKF pic">
+
+# Descarga del proyecto y video
+https://drive.google.com/file/d/1UmpyUl-7hixy-MBU_QS5ppcBcJokS09E/view?usp=sharing
+https://www.youtube.com/watch?v=kwfCs8DdLEI&feature=youtu.be
