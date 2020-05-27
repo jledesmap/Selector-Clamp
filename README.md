@@ -5,6 +5,7 @@
    * [Requisitos software](#requisitos-software)
    * [Documentación](#documentation)
    * [Manual de uso](#manual-de-uso)
+   * [Arquitectura software](#arquitectura-de-software)
 
 # Qué es esto?
 
