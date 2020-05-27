@@ -91,6 +91,8 @@ seleccionar ya sea indicando la forma, el color o directamente capturando la fig
 una fotografía desde su dispositivo móvil. A continuación se muestra un ejemplo de
 cómo el usuario podría seleccionar una figura segun su color y/o forma.
 
+<img src="https://i.imgur.com/DZZAT2D.png" width="240" alt="EKF pic">
+
 # Descarga del proyecto y video
 Proyecto:
 https://drive.google.com/file/d/1UmpyUl-7hixy-MBU_QS5ppcBcJokS09E/view?usp=sharing
