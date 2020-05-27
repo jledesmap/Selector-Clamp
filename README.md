@@ -68,4 +68,12 @@ Unity assets: https://assetstore.unity.com/
 - Launch YoloSrc\YoloServer\bin\Release\netcoreapp2.1\win-x64\YoloServer.exe
 Abrir el proyecto de Unity y entrar en modo juego.
  
+# Arquitectura Software
+
+La arquitectura del software se compone de 4 módulos principales que són:
+Módulo de la aplicación, que se basa en una aplicación móvil para Android.
+Módulos de detección, para clasificar el tipo de objeto que contiene una imágen.
+Módulo de comunicación, Módulo para comunicar la aplicación con el módulo de detección y el módulo del robot.
+Módulos de Robot, módulo que desarrolla la funcionalidad de mover el robot aplicacndo cinemática inversa.
+
 <img src="https://i.imgur.com/70Wc27Z.png" width="480" alt="EKF pic">
